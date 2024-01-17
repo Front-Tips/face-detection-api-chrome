@@ -1,0 +1,25 @@
+#canvas {
+  border: 0.4rem solid #fff;
+  border-radius: 1rem;
+}
+
+.wrapper {
+  margin: 1rem 0;
+}
+
+.button {
+  padding: 0.3rem 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  background-color: yellow;
+  border: none;
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+
+.stats {
+  font-size: 1.4rem;
+  b {
+    color: yellow;
+  }
+}
